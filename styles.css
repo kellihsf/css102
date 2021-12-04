@@ -2,17 +2,19 @@
     display: grid;
 }
 
-h1{ 
+header{ 
     background-color: #b0b2b5;
+    font-size: 35px;
 }
 ul {
+    float: right;
     list-style-type: none;
     margin: 0;
     padding: 0;;
 }
 
 li {
-    display: inline;
+    display: block;
     color: blue;
     
 }
