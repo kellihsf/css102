@@ -2,11 +2,13 @@
     display: grid;
 }
 
+h1{ 
+    background-color: #b0b2b5;
+}
 ul {
     list-style-type: none;
     margin: 0;
-    padding: 0;
-    background-color: #b0b2b5;
+    padding: 0;;
 }
 
 li {
@@ -24,4 +26,12 @@ footer {
     height: 20px;
     background-color: #b0b2b5;
     
+}
+
+.container {
+    width: 100%;
+}
+
+.inline {
+    display: inline;
 }
